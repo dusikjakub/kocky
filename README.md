@@ -1,4 +1,4 @@
-ą# 🐱 Kočky vs. Vysavače (Vintage 8-Bit TD)
+# 🐱 Kočky vs. Vysavače (Vintage 8-Bit TD)
 
 > **2D Tower Defense hra v retro pixel-art stylu vytvořená v čistém HTML5 Canvas a JavaScriptu bez externích knihoven.**
 
